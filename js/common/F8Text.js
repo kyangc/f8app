@@ -48,7 +48,11 @@ function normalize(size: number): number {
 
 const styles = StyleSheet.create({
   font: {
+<<<<<<< HEAD
     fontFamily: 'Graphik App',
+=======
+    fontFamily: require('../env').fontFamily,
+>>>>>>> 9ec067af7398040dc5771199a2e4478af837dc69
   },
   h1: {
     fontSize: normalize(24),

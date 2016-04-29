@@ -28,4 +28,8 @@ module.exports = {
   testMenuEnabled: true,
   serverURL: 'http://localhost:8080',
   version: 323,
+<<<<<<< HEAD
+=======
+  fontFamily: undefined,
+>>>>>>> 9ec067af7398040dc5771199a2e4478af837dc69
 };
